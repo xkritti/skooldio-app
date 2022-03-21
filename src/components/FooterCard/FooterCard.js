@@ -1,9 +1,10 @@
 import './FooterCard.css';
+import { Data } from '../Card/mockdata';
 
 function FooterCard() {
   return (
-    <div className="">
-        <p>card test</p>
+    <div >
+        <p>{Data.likes} คนที่สนใจ</p>
     </div>
   );
 }
