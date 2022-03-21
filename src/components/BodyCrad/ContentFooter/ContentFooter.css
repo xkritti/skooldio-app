@@ -2,3 +2,10 @@
     margin: 0 4px 3px 0;
     border: solid 1px #d8d8d8;
   }
+
+.Triangle {
+    width: 9px;
+    height: 14px;
+    margin: 18.5px 18.5px 21.5px 2.5px;
+    background-color: #48b6a3;
+  }

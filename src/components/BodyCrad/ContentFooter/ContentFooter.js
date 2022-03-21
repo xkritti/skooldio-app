@@ -5,7 +5,7 @@ const ContentFooter = () => {
         <div>
             <div className="line"/>
             <div style={{display:'flex',justifyContent:'flex-start'}}>
-                <h3 style={{paddingRight:"10px"}}>>></h3>
+                <h3 style={{paddingRight:"10px"}}>{'>>'}</h3>
             <h3>ดูสัดส่วนคะแนน</h3>
             </div>
             
